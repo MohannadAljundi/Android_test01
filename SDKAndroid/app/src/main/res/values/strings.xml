@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SDKAndroid</string>
+    <string name="btn1Name">Calculate</string>
+    <string name="TextView_output">Temp</string>
+    <string name="ErrorMsj">Error</string>
+    <string name="EditText">123</string>
+</resources>
